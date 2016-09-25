@@ -12,4 +12,4 @@ Pokemon GO map, Pokevision style, just for you.
 * `npm install`
 * `npm run build`
 
-Then `npm run start` and open [http://localhost:3000](http://localhost:3000) in your browser
+Then `npm run start` and open [http://localhost:80](http://localhost:80) in your browser
